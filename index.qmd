@@ -1,5 +1,5 @@
 ---
-title: "A demonstration of correlation nalaysis in python and quarto"
+title: "A demonstration of correlation analysis in python and quarto"
 execute:
   echo: true
 ---
